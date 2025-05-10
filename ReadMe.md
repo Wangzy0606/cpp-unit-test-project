@@ -42,30 +42,4 @@
 
 
 ---------------------------------------------------------------------------------
-CppUnitTesting/
-├── CMakeLists.txt                     # 主CMakeLists.txt
-├── task1-assert/                      # 任务1：使用assert宏
-│   ├── CMakeLists.txt                 # 任务1的CMake配置
-│   ├── task1_logic.cpp                # 任务1的逻辑实现
-│   └── task1_assert_tests.cpp         # 任务1的测试代码
-├── task2-ctest/                       # 任务2：使用ctest
-│   ├── CMakeLists.txt                 # 任务2的CMake配置
-│   ├── task2_logic.cpp                # 任务2的逻辑实现
-│   ├── task2_logic.h                  # 任务2的头文件
-│   ├── test_task2_1.cpp               # 任务2的测试用例1
-│   ├── test_task2_2.cpp               # 任务2的测试用例2
-│   └── test_task2_3.cpp               # 任务2的测试用例3
-└── task3-8-gtest/                     # 任务3-8：使用Google Test
-    ├── CMakeLists.txt                 # 任务3-8的CMake配置
-    ├── all_tests.cpp                  # 所有Google Test测试用例
-    ├── task3_logic.cpp                # 任务3的逻辑实现
-    ├── task3_logic.h                  # 任务3的头文件
-    ├── task4_logic.cpp                # 任务4的逻辑实现
-    ├── task4_logic.h                  # 任务4的头文件
-    ├── task5_logic.cpp                # 任务5的逻辑实现
-    ├── task5_logic.h                  # 任务5的头文件
-    ├── task6_logic.cpp                # 任务6的逻辑实现
-    ├── task6_logic.h                  # 任务6的头文件
-    ├── task7_logic.cpp                # 任务7的逻辑实现
-    ├── task7_logic.h                  # 任务7的头文件
-    ├── task8_logic.cpp                # 任务8的逻辑实现
+
